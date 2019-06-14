@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Wifi Status</string>
+    <string name="switch_text">On / Off</string>
+</resources>
